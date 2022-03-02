@@ -1,61 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Trafic</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap');
-        </style>
-        
-</head>
-<body>
-    <div class="container">
-        <div class="photo">
-        </div>
-        <div class="slogan">
-            <h1>BRACONNAGE</h1>
-            <h4>N'attendez pas qu'ils deviennent imaginaires !</h4>
-        </div>
-    </div>
-    <div id="general">
-        <div id="nav">
-            <script async src="https://cse.google.com/cse.js?cx=dc7609ab605a2f96f"></script>
-            <div class="gcse-search"></div>
-            <div>
-                <div class="onglet">
-                    <a href="siteprojet.html">Accueil</a>
-                </div>
-                <div class="onglet">
-                    <a href="environnement.html">Environnement</a>
-                </div>
-                <div class="onglet">
-                    <a href="especes.html">Espece</a>
-                </div>
-                <div class="onglet">
-                    <a href="deforestation.html">Deforestation</a>
-                </div>
-                <div class="onglet">
-                    <a href="#">Braconnage</a>
-                </div>
-                <div class="onglet">
-                    <a href="especeeteinte.html">Especes eteintes</a>
-                </div>
-                <div class="onglet">
-                    <a href="quellesolution.html">Quelle solution</a>
-                </div>
-                <div class="onglet">
-                    <a href="apelleauxdons.html">Apelle aux dons</a>
-                </div>
-                <div class="onglet">
-                    <a href="contacts.html">Contacts</a>
-                </div>
-            </div>
-        </div>
-        <div id="main">
+
             <h3>Qu'est-ce que le braconnage ?</h3>
 <h5>Le braconnage est un acte de chasse ou de pêche illégal. Son illégalité s’exprime suivant différentes conditions :</h5>
 <ul>
@@ -76,9 +19,3 @@
 <h5>Des structures informelles commercialisent la « viande de brousse » sur les bords de route et approvisionnent restaurants et industries alimentaires.</h5>
 <ol><h4>5. Le Braconnage mafieux</h4></ol>
 <h5>Ce type de braconnage s’appuie en fait sur des entités internationales de type mafieux qui trafiquent les espèces animales en créant de nouveaux courants économiques (ivoire, cornes, chair, …).</h5>
-
-
-        </div>
-    </div>
-</body>
-</html>
